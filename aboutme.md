@@ -4,14 +4,18 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Just a chill guy with a beer. (click on photo)
+![My Photo](/images/beeeer.jpg){: .mx-auto.d-block}
+
+My name is Pau Orts, I am from Vinaròs, currently located in Tarragona.
+
+### [More About Me](/about-details)
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Biomedical engineering degree at URV (2021 - 2024)
+- Master in data science for health (2024 - 2025)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Internship as bioinformnatician at Eurecat (2024)
+- R&D as Data Scientist at Hospital Universitari Joan XXIII (2024 - present)
