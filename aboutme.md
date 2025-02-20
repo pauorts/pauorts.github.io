@@ -4,12 +4,25 @@ title: About me
 subtitle: A brief personal description
 ---
 
-Just a chill guy with a beer. (click on photo)
-![My Photo](/images/beeeer.jpg){: .mx-auto.d-block}
-
 My name is Pau Orts, I am from Vinaròs, currently located in Tarragona.
 
-### [More About Me](/about-details)
+### [Just a chill guy with a beer. (click on photo) ![My Photo](/images/beeeer.JPG){: .mx-auto.d-block}](/about-details)
+
+<a href="aboutme-details">
+  <img src="/images/beeeer.JPG" alt="Just a chill guy with a beer (click on photo ;)" style="display: block; margin: 0 auto; max-width: 200px; border-radius: 50%;">
+</a>
+
+<p style="text-align: center; font-size: 1.2em;"><a href="aboutme-details">Pincha aquí</a></p>
+
+---
+
+## Página Detallada (aboutme-details.md)
+
+---
+layout: page
+title: About me - Detalles
+subtitle: Mi trayectoria académica y profesional
+---
 
 ### Education
 
