@@ -25,7 +25,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /images/pauorts.jpg
 
 
 #####################################
@@ -39,9 +39,9 @@ social-network-links:
   email: "pauortsma@gmail.com"
   facebook: pauom_
   github: pauorts
-  twitter: pauorts_
+  twitter: pauom_
   # youtube: "@ferranad"
-  linkedin: pauorts
+  linkedin: Pau Orts Macip
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
