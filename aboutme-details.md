@@ -4,11 +4,6 @@ title: About Me - Details
 subtitle: My Background and Experience
 ---
 
-layout: page
-title: About me - Detalles
-subtitle: Mi trayectoria académica y profesional
----
-
 ### Education
 
 - Biomedical engineering degree at URV (2021 - 2024)
