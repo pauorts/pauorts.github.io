@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me - Details
+title: More about me (now really)
 subtitle: My Background and Experience
 ---
 
@@ -13,4 +13,4 @@ subtitle: My Background and Experience
 - Internship as bioinformnatician at Eurecat (2024)
 - R&D as Data Scientist at Hospital Universitari Joan XXIII (2024 - present)
 
-[⬅ Volver atrás](/aboutme)
+[⬅ Back](/aboutme)
