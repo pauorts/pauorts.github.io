@@ -22,7 +22,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 Here's a table:
 
 | Number | Next number | Previous number |
-| :------ |:--- | :--- |
+| :--- |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
